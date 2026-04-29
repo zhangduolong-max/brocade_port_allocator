@@ -1,0 +1,7 @@
+reserved_port_ranges:
+  - [44, 47]
+  - [92, 95]
+
+defaults:
+  port_pick: lowest   # lowest / highest
+  atomic: auto        # auto / true / false
